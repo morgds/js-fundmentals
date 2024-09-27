@@ -1,0 +1,2 @@
+# js-fundmentals
+first js 
